@@ -5,7 +5,7 @@
 {
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider":"http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;0a05825c82a070067a97405320d1ac98",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
